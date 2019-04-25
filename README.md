@@ -5,7 +5,7 @@
 [![Coverage Status](https://img.shields.io/codecov/c/github/zhouhailin/common-bean/master.svg)](https://codecov.io/github/zhouhailin/common-bean?branch=master&view=all#sort=coverage&dir=asc)  
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/link.thingscloud/common-bean/badge.svg)](https://maven-badges.herokuapp.com/maven-central/link.thingscloud/common-bean/)
 [![GitHub release](https://img.shields.io/github/release/zhouhailin/common-bean.svg)](https://github.com/zhouhailin/common-bean/releases)
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html) [![Join the chat at https://gitter.im/zhouhailin/common-bean](https://badges.gitter.im/zhouhailin/common-bean.svg)](https://gitter.im/zhouhailin/common-bean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## 版本迭代
 
